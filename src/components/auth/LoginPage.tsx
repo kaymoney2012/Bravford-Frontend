@@ -82,10 +82,6 @@ export default function LoginPage() {
             Apply for admission →
           </button>
         </p>
-
-        <div className="alert alert-info" style={{ marginTop: '1rem', fontSize: '0.78rem' }}>
-          <strong>Demo Credentials:</strong> Student: STU001 / password &nbsp;
-        </div>
       </div>
     </div>
   );
